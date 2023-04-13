@@ -1,0 +1,4 @@
+#include "Window.h"
+
+MYICON ICON myicon.ico
+MYIMAGE BITMAP maheshl.bmp

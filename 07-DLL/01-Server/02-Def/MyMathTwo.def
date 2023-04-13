@@ -1,0 +1,4 @@
+; THIS IS MODULE DEFINITION FILE
+LIBRARY MyMathTwo.dll
+EXPORTS
+      MakeCube
